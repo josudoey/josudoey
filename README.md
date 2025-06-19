@@ -18,7 +18,7 @@
 <br/>  
 
 
-## About More Me
+## More About Me
 
 Want to see my work? Click the <a href="https://josudoey.github.io/">here</a> to view my portfolio.
 
