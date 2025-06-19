@@ -1,5 +1,7 @@
-### <div align="center">I'm Joey Fang, a software developer,  learning software since 2004 🚀</div>  
-  
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=435&lines=I+am+Joey+Fang" alt="I'm Joey Fang" /></a></div>
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=93374B&center=true&vCenter=true&width=800&lines=A+better+engineer%2C+learning+software+development+since+2004+%F0%9F%9A%80" alt="A better engineer, learning software development since 2004" /></a></div>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/josudoey" target="_blank">
